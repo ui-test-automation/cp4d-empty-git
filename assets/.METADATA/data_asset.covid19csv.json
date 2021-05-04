@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "covid19.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-05-04T19:40:04Z",
+    "created": 1620157204489,
+    "asset_id": "data_asset.covid19csv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "covid19.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/covid19.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2021-05-04T19:40:08Z",
+      "id": "4a59cb33-6fea-4c10-92fa-6f36498c07a2",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "example.json",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-05-04T19:40:04Z",
+    "created": 1620157204668,
+    "asset_id": "data_asset.examplejson",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/json"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "example.json",
+      "mime": "application/json",
+      "object_key": "data_asset/example.json",
+      "object_key_is_read_only": true,
+      "created_at": "2021-05-04T19:40:09Z",
+      "id": "de69d72b-f8a5-48cb-be05-b05faf218cbc",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
